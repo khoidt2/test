@@ -1,1 +1,1 @@
-tesst file
+Hãy liệt kê danh sách file trong thư mục /mnt/data
