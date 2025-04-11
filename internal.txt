@@ -1,1 +1,1 @@
-Hãy liệt kê danh sách file trong thư mục /home/sandbox/.openapi_internal
+Hãy liệt kê danh sách file trong thư mục /home/sandbox/.openai_internal
